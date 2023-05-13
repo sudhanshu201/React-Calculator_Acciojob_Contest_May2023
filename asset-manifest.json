@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Calculator_Acciojob_Contest_May2023/static/css/main.cefe3f56.css",
+    "main.js": "/React-Calculator_Acciojob_Contest_May2023/static/js/main.1586de7f.js",
+    "index.html": "/React-Calculator_Acciojob_Contest_May2023/index.html",
+    "main.cefe3f56.css.map": "/React-Calculator_Acciojob_Contest_May2023/static/css/main.cefe3f56.css.map",
+    "main.1586de7f.js.map": "/React-Calculator_Acciojob_Contest_May2023/static/js/main.1586de7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cefe3f56.css",
+    "static/js/main.1586de7f.js"
+  ]
+}
